@@ -1,0 +1,9 @@
+Texture_size: 16
+Texture_file: data/textures.bmp
+Map_grond: data/great_map.bmp
+Map_regions: data/great_map_regions.bmp
+
+sea   0   148 255	0   0   16  16
+send  255 216 0  	16  0   32  16
+grass 0   255 33 	32  0   48  16
+town  0   0   0  	48  0   64  16
